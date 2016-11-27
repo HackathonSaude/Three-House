@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: aab46250ca871c346aaa3c02485ff98d
+timeCreated: 1480239713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barra like-01_0
+    21300002: barra like-01_1
+    21300004: barra like-01_2
+    21300006: barra like-01_3
+    21300008: barra like-01_4
+    21300010: barra like-01_5
+    21300012: barra like-01_6
+    21300014: barra like-01_7
+    21300016: barra like-01_8
+    21300018: barra like-01_9
+    21300020: barra like-01_10
+    21300022: barra like-01_11
+    21300024: barra like-01_12
+    21300026: barra like-01_13
+    21300028: barra like-01_14
+    21300030: barra like-01_15
+    21300032: barra like-01_16
+    21300034: barra like-01_17
+    21300036: barra like-01_18
+    21300038: barra like-01_19
+    21300040: barra like-01_20
+    21300042: barra like-01_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barra like-01_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6662
+        width: 1409
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6348
+        width: 1409
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6037
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5726
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5416
+        width: 1409
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5102
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4791
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4481
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4168
+        width: 1409
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3856
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3551
+        width: 1409
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3239
+        width: 1409
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2928
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2617
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2304
+        width: 1409
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1993
+        width: 1409
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1682
+        width: 1409
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1372
+        width: 1409
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1058
+        width: 1409
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 747
+        width: 1409
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 437
+        width: 1409
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barra like-01_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 123
+        width: 1409
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
